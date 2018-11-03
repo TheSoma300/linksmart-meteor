@@ -28,8 +28,8 @@ Verify the installation.
 Fork or clone this repository.
 
 ```bash
-    git clone https://github.com/pkcwong/linksmarts-meteor.git
-    cd linksmarts-meteor
+    git clone https://github.com/TheSoma300/linksmart-meteor.git
+    cd linksmart-meteor
     meteor npm install
     meteor
 ```
