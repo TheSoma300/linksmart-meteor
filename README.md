@@ -1,10 +1,10 @@
-# linkedmarts-meteor
+# linksmart-meteor
 
-https://github.com/pkcwong/linkedmarts-meteor
+https://github.com/pkcwong/linksmart-meteor
 
-MeteorJS repository for LinkedMarts.
+MeteorJS repository for Linksmart.
 
-Built with [meteor-react-starter](https://github.com/pkcwong/meteor-react-starter), a starter repo to building a web application with ReactJS, using the MeteorJS framework.
+Built with [meteor-react-starter], a starter repo to building a web application with ReactJS, using the MeteorJS framework.
 
 More resource may be found in the [wiki](https://github.com/pkcwong/meteor-react-starter/wiki).
 
@@ -53,4 +53,4 @@ Post your enquiries on [issues](https://github.com/pkcwong/meteor-react-starter/
 
 ### Contributing
 
-- Christopher Wong [@pkcwong](https://github.com/pkcwong)
+- Soma Froghyar
