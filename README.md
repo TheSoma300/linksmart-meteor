@@ -28,22 +28,12 @@ Verify the installation.
 Fork or clone this repository.
 
 ```bash
-    git clone https://github.com/pkcwong/linkedmarts-meteor.git
-    cd linkedmarts-meteor
+    git clone https://github.com/pkcwong/linksmarts-meteor.git
+    cd linksmarts-meteor
     meteor npm install
     meteor
 ```
 
-### Support and Update
-
-This repo is being updated time to time, to receive the latest updates do the following.
-
-```bash
-    git remote add pk https://github.com/pkcwong/meteor-react-starter.git
-    git pull pk master
-```
-
-Post your enquiries on [issues](https://github.com/pkcwong/meteor-react-starter/issues) page, it will be addressed as soon as possible.
 
 ### Resource
 
